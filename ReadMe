@@ -1,0 +1,5 @@
+
+## yarn 테스트
+yarn jar /Users/jacob/dev/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.1.jar pi 16 10000
+
+hadoop jar /Users/jacob/dev/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.1.jar pi 16 100000
